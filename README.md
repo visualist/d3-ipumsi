@@ -5,4 +5,6 @@ The IPUMS-I (International) project (see http://ipums.org) is home to census mic
 
 This simple D3 example shows data availability within the project, in terms of number of household and person records contained in each of the samples. This example began with my curiosity about how many continents, countries and samples were represented, and how much data from each of these samples.
 
-Derived from treemap example. Work in progress.
+Derived from treemap example at http://mbostock.github.com/d3/talk/20111018/treemap.html - thanks to Mike Bostock!
+
+This is work in progress.
